@@ -10,5 +10,5 @@
 
 - Cost changed from 4800 to 0
 - Damage changed from 200 to 500
-- MinFalloffDist changed from 500 to 1500
-- MaxFalloffDist changed from 4000 to 5000
+- MinFalloffDist changed from 500 to 2500
+- MaxFalloffDist changed from 4000 to 6000

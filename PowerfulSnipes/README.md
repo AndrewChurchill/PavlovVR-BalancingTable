@@ -9,5 +9,6 @@
 ## Antitank
 
 - Cost changed from 4800 to 0
-- Bonus stays at 0
-- Damage updated from 200 to 500
+- Damage changed from 200 to 500
+- MinFalloffDist changed from 500 to 1500
+- MaxFalloffDist changed from 4000 to 5000

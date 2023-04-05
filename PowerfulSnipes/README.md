@@ -4,7 +4,7 @@
 
 - Cost changed from 800 to 0
 - Bonus changed from 600 to 0
-- Damage stays at 50
+- Damage changed from 50 to 75
 
 ## Antitank
 
